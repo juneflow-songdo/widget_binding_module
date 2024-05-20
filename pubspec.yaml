@@ -1,7 +1,7 @@
 name: widget_binding_module
 description: "Help Applying Widget Binding in Flutter"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/widget_binding_module
 
 version: 1.0.0+1
 
