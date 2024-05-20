@@ -1,0 +1,23 @@
+name: widget_binding_module
+description: "Help Applying Widget Binding in Flutter"
+#publish_to: 'none'
+#repository: https://github.com/melodysdreamj/juneflow
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  june_flow_util:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/module/widget_binding_module/
+  uses-material-design: true
